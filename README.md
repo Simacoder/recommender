@@ -84,8 +84,8 @@ farm-to-feed-ml/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/farm-to-feed-ml.git
-cd farm-to-feed-ml
+git clone https://github.com/Simacoder/recommender.git
+cd recommender
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
